@@ -2,7 +2,7 @@
  
 Como extrair as métricas evolutivas:
 
-1.clone o repositório extractMetricEvolution
+1.clone o repositório extractMetricEvolution</br>
 2.crie uma pasta com o nome projectA
 3.crie uma pasta com o nome projectB
 4.em cada pasta project clone o projeto a ser extraído as métricas. Para isso utilizar o comando
